@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="android-json">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/android-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-net-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/SmartUpload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
